@@ -21,7 +21,7 @@ LT-PINN/
 └── code/
 ├── loss.py
 ├── main.py
-└── NeuralNetwork.p
+└── NeuralNetwork.py
 
 
 ### Step 2: Navigate to the Code Directory and Start Training
