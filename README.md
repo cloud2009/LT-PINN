@@ -4,27 +4,6 @@
 
 ### Step 1: Unzip the LT-PINN.zip File
 
-The files are organized as follows:
-
-LT-PINN/
-├── data/
-│   ├── heat_128x128.csv
-│   └── solid.csv
-├── DT/
-│   ├── checkpoint/
-│   └── code/
-│       ├── loss.py
-│       ├── main.py
-│       └── NeuralNetwork.py
-└── LT/
-    ├── checkpoint/
-    └── code/
-        ├── loss.py
-        ├── main.py
-        └── NeuralNetwork.py
-
-
-
 ### Step 2: Navigate to the Code Directory and Start Training
 
 1. **Navigate to the Code Directory**:
