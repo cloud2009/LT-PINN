@@ -1,4 +1,4 @@
-# this is the code for LT-PINN: Lagrangian Topology-conscious Physics-informed Neural Network for Boundary-Focused Engineering Optimization
+# LT-PINN: Lagrangian Topology-conscious Physics-informed Neural Network for Boundary-Focused Engineering Optimization
 
 # how to use the code
 
