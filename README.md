@@ -10,7 +10,7 @@
    - Open your terminal or command prompt.
    - Change to the directory containing the `main.py` file. For example:
      ```bash
-     cd {yourfolder}/LT-PINN/DT/code
+     cd {yourfolder}/LT-PINN/DT/{casename}/code
      ```
 
 2. **Run the Training Script**:
